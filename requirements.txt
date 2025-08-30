@@ -1,5 +1,5 @@
-matplotlib
-
-numpy
-
+streamlit>=1.32
+matplotlib>=3.7
+numpy>=1.24
+pandas>=1.5
 mp-api
