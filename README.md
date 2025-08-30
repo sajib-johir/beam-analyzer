@@ -25,3 +25,19 @@ git clone https://github.com/sajib-johir/beam-analyzer.git
 cd beam-analyzer
 pip install -r requirements.txt
 python beam_analyzer.py
+
+
+
+## 📸 Screenshots
+
+### Main UI
+![Main UI](screenshots/main-ui.png)
+
+### Results Window
+![Results](screenshots/results.png)
+
+### Plots
+![Plots](screenshots/plots.png)
+
+### Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
