@@ -1,7 +1,7 @@
 
 
 
-# ===================== Mechanical Beam Analyzer — Fixed & Enhanced =====================
+# ===================== Mechanical Beam Analyzer =====================
 # PART 1/4: Imports, utilities, materials (full), Beam model
 
 import tkinter as tk
