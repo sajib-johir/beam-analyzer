@@ -24,8 +24,7 @@ Clone this repository and install the required dependencies:
 git clone https://github.com/sajib-johir/beam-analyzer.git
 cd beam-analyzer
 pip install -r requirements.txt
-python beam_analyzer.py
-
+python beam_analyzer.py 
 
 
 ## 📸 Screenshots
